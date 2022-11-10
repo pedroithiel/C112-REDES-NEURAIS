@@ -1,0 +1,58 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result, #Captura
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+  
+}
+#resultEmotionName ,#resultEmotionName2 
+{
+  color: black;
+}
+.emotionName
+{
+  font-size: 40px;
+}
+#emojis, #emojis2
+{
+  font-size:48px;
+  height: 100px;
+}
+
+#camera2 
+{
+  background-color: white;
+  width:350px;
+  height:350px;
+  padding: 5;
+  border-radius: 40px;
+}
+
+.emojisColor {
+    background-color: #4287f5;
+    height: 50;
+    padding-top: 10;
+    border-radius: 40px ;
+}
+
+.Cor {
+    color: #03fc9d;
+    background-color: #eb4034;
+}
+.emocoes {
+  color:black;
+}
+
+#Captura ,#camera1 {
+  background-color: black;
+  border-radius: 40px;
+}
